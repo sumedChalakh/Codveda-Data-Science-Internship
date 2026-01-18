@@ -3,11 +3,11 @@
 This folder contains the **Level 1 tasks** completed as part of the  
 **Codveda Data Science Internship**.
 
-## 📌 Objective
+##  Objective
 To perform data cleaning and exploratory data analysis on the **Iris dataset**
 in order to understand data distribution, feature relationships, and patterns.
 
-## 📂 Files in This Folder
+##  Files in This Folder
 
 - **iris_eda.ipynb**
   - Exploratory Data Analysis of the Iris dataset
@@ -20,14 +20,14 @@ in order to understand data distribution, feature relationships, and patterns.
   - Handling missing values (if any)
   - Data type validation and preparation for modeling
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-## ✅ Outcome
+##  Outcome
 - Gained insights into feature distributions and correlations
 - Identified important relationships between variables
 - Prepared a clean dataset for further machine learning tasks
