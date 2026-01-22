@@ -113,9 +113,10 @@ Codveda-Data-Science-Internship/
 **Sumed Chalakh**  
 Data Science Intern  
  Email: sumedchalakh528@gmail.com 
+ 
  LinkedIn: https://www.linkedin.com/in/sumed-chalakh-888963261/ 
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Note
 These projects were completed as part of a structured internship program and are intended to demonstrate practical application of data science concepts.
