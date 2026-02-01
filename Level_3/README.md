@@ -66,10 +66,10 @@ Analyze time-dependent data and forecast future values using statistical time se
 ---
 
 ##  Key Learning Outcomes
-- Applied NLP techniques to real-world text classification problems
-- Gained hands-on experience with time series forecasting methods
-- Learned to evaluate models using task-appropriate metrics
-- Strengthened ability to communicate insights from advanced data analysis
+- Applied NLP techniques to real-world text classification problems.
+- Gained hands-on experience with time series forecasting methods.
+- Learned to evaluate models using task-appropriate metrics.
+- Strengthened ability to communicate insights from advanced data analysis.
 
 ---
 
